@@ -21,7 +21,7 @@ public class Main {
         }
         else if(earnings<0){
             System.out.println("After day "+day+" You lost "+(-earnings)+" per share");
-        }
+        }//hey
         else{
             System.out.println("After day "+day+" You have no earning per share");
         }
